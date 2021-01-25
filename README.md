@@ -22,7 +22,7 @@ python3 ner.py input_file_path > output_file_path
 
 ## Lexicons
 
-Lexicons used in the development process of the project scraped from web. They are not going to be shared because of the Copyrigth issues.
+Lexicons used in the development process of the project scraped from web. They are not going to be shared because of the Copyright issues.
 
 **Location Lexicon**: It includes Country, City, Continent, Street, River, Mountain, Lake names
 
