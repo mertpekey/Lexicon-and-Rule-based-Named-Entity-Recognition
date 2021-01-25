@@ -82,22 +82,39 @@ Lexicons used in the development process of the project scraped from web. They a
 ## Sample Result
 
 Line 1: ORGANIZATION Fenerbahçe
+
 Line 3: ORGANIZATION Fenerbahçe Spor Kulübü
+
 Line 7: TIME Çarşamba
+
 Line 7: TIME 15:00
+
 Line 9: ORGANIZATION Fenerbahçe
+
 Line 11: TIME 00.00
+
 Line 12: PERSON Ali Koç
+
 Line 12: TIME 17 Ocak
+
 Line 12: ORGANIZATION Fenerbahçe
+
 Line 14: LOCATION Londra
+
 Line 14: LOCATION İstanbul
+
 Line 17: PERSON Mesut Özil
+
 Line 17: PERSON Mesut Özil
+
 Line 17: LOCATION Almanya
+
 Line 17: LOCATION Zonguldak
+
 Line 17: LOCATION Devrek
+
 Line 17: LOCATION Almanya
+
 Line 17: TIME 15 Ekim 1988
 
 
